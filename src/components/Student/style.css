@@ -1,0 +1,24 @@
+.card-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-desc2 {
+    height: 60px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.div-students {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.div-students2 {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px 100px;
+}

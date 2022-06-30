@@ -1,0 +1,21 @@
+.main-grid {
+  padding: 25px;
+}
+
+.grid-card {
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+
+  font-family: "Lobster", cursive;
+}
+
+.grid-hover{
+  transition: 0.6s;
+}
+
+.grid-hover:hover{
+  transform: scale(1.05);
+}

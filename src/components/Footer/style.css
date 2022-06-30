@@ -1,0 +1,80 @@
+.logo-footer {
+  width: 80px;
+}
+
+.company{
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  padding-bottom: 20px;
+  font-family: "Gabriela", serif;
+}
+
+.company2 {
+  font-size: 13px;
+  font-family: "Gabriela", serif;
+  color: grey;
+}
+
+.grid-content {
+  border-radius: 4px;
+  min-height: 36px;
+  font-size: 14px;
+  font-weight: bold;
+  color: grey;
+  font-family: "Gabriela", serif;
+}
+
+.footer-text-part1{
+  color: grey;
+  font-size: 13px;
+
+}
+
+.heading-footer{
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 15px;
+  font-family: "Gabriela", serif;
+}
+
+.contacts-footer{
+  color: grey;
+  font-size: 14px;
+  font-family: "Gabriela", serif;
+}
+
+#footer-block1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+#footer-block2{
+  padding-top: 50px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.pay {
+  width: 600px;
+  transition: 0.6s;
+}
+
+.pay:hover{
+  transform: scale(1.02);
+}
+
+.grid-hover{
+   transition: 0.6s;
+ }
+
+.grid-hover:hover{
+  transform: scale(1.05);
+}
+
+.item-class{
+  height: 270px;
+}

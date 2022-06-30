@@ -1,0 +1,11 @@
+.div-addCourses {
+    display: flex;
+    justify-content: end;
+}
+
+.download-courses{
+    display: flex;
+    justify-content: end;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

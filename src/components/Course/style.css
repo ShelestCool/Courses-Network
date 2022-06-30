@@ -1,0 +1,23 @@
+.card-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.price {
+   font-family: "Lobster", cursive;
+    font-size: 20px;
+}
+
+.button-buy[disabled]{
+    color: red;
+    background: white;
+    transform: rotate(-30deg) scale(1.5) translateX(0%) translateY(-320%);
+    border: 1px solid red;
+}
+
+.card-desc {
+    height: 200px;
+    display: table-cell;
+    vertical-align: middle;
+
+}
